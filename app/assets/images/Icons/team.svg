@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<circle fill="#FFFFFF" stroke="#3CB9E9" stroke-width="6" stroke-miterlimit="10" cx="56.583" cy="26.525" r="15.956"/>
+<path fill="#225469" stroke="#3CB9E9" stroke-width="6" stroke-miterlimit="10" d="M83.884,62.354c0,0.484,0.479,2.028,0,2.029
+	c-10.936,0.045-12.949,0-27.33,0c-13.924,0-19.465,0.021-27.151,0c-0.587-0.001-0.22-1.24-0.22-2.029l0,0l0,0
+	c0-10.095,12.246-18.276,27.35-18.276C71.638,44.078,83.884,52.26,83.884,62.354z"/>
+<circle fill="#FFFFFF" stroke="#3CB9E9" stroke-width="6" stroke-miterlimit="10" cx="32.009" cy="39.849" r="15.956"/>
+<circle fill="#FFFFFF" stroke="#3CB9E9" stroke-width="6" stroke-miterlimit="10" cx="67.538" cy="43.997" r="15.956"/>
+<path fill="#225469" stroke="#3CB9E9" stroke-width="6" stroke-miterlimit="10" d="M59.311,75.317c0,0.484,0.479,2.028,0,2.029
+	c-10.936,0.045-12.95,0-27.331,0c-13.924,0-19.465,0.021-27.151,0c-0.587-0.001-0.22-1.24-0.22-2.029l0,0l0,0
+	c0-10.095,12.246-18.276,27.351-18.276C47.065,57.041,59.311,65.223,59.311,75.317z"/>
+<path fill="#225469" stroke="#3CB9E9" stroke-width="6" stroke-miterlimit="10" d="M94.84,79.293c0,0.484,0.478,2.028,0,2.03
+	c-10.937,0.044-12.95,0-27.331,0c-13.924,0-19.465,0.02-27.151,0c-0.587-0.002-0.22-1.241-0.22-2.03l0,0l0,0
+	c0-10.095,12.246-18.275,27.35-18.275C82.593,61.018,94.84,69.198,94.84,79.293z"/>
+<radialGradient id="SVGID_1_" cx="34.6108" cy="91.667" r="29.5662" gradientTransform="matrix(1.2172 0 0 0.2434 8.2041 69.351)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#215469"/>
+	<stop  offset="0.1485" style="stop-color:#4E6E82;stop-opacity:0.8515"/>
+	<stop  offset="0.374" style="stop-color:#8B9AA9;stop-opacity:0.626"/>
+	<stop  offset="0.5801" style="stop-color:#BCC2CC;stop-opacity:0.4199"/>
+	<stop  offset="0.7596" style="stop-color:#E0E2E8;stop-opacity:0.2404"/>
+	<stop  offset="0.9057" style="stop-color:#F7F8F9;stop-opacity:0.0943"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</radialGradient>
+<path fill="url(#SVGID_1_)" d="M100.206,91.666c0,4.604-32.636,8.334-49.874,8.334c-27.544,0-49.873-3.73-49.873-8.334
+	c0-4.603,22.329-8.332,49.873-8.332C77.876,83.334,100.206,87.063,100.206,91.666z"/>
+</svg>

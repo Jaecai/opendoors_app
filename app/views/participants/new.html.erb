@@ -1,0 +1,41 @@
+<div class="opendoors">
+  <div class="row-fluid">
+    <div class="span8 offset2">
+      <h2>Nehmen Sie am lengoo Gewinnspiel teil</h2>
+      <p class="tagline">Gratis-Übersetzung (1000 Worte) gewinnen!</p>
+    </div>
+  </div>
+  <div class="row-fluid">
+    <section class="span8 offset2">
+      <%= form_for(@participant) do |f| %>
+        <%= render 'shared/error_messages', object: f.object %>
+        <%= f.label :name, "Vor- und Nachname", class: "strong" %>
+        <%= f.text_field :name%>
+
+        <%= f.label :email, "E-Mail Adresse", class: "strong" %>
+        <%= f.label :email, "(von uns werden Sie nie Spam erhalten)" %>
+        <%= f.text_field :email %>
+
+        <%= f.submit "Teilnehmen"%>
+      <% end %>
+    </section>
+  </div>
+
+
+  <div class="row-fluid">
+    <section class="span8 offset2">
+      <h2>Sie erhalten bald eine E-Mail von uns</h2>
+      <p class="tagline">...mit der Gewinnmeldung und einigen kurzen Infos zu unserem Service.</p>
+    </section>  
+  </div>
+ 
+</div>  
+    
+    
+    
+
+
+
+    
+
+

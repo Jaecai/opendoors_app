@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<path fill="none" stroke="#4EC2F0" stroke-width="10" stroke-miterlimit="10" d="M807.159,66.622"/>
+<path fill="none" stroke="#4EC2F0" stroke-width="10" stroke-miterlimit="10" d="M1252.822,52.478"/>
+<path fill="none" stroke="#4EC2F0" stroke-width="10" stroke-linejoin="bevel" stroke-miterlimit="10" d="M1136.949,115.445"/>
+<path fill="none" stroke="#4EC2F0" stroke-width="10" stroke-linejoin="bevel" stroke-miterlimit="10" d="M1173.245,75.891"/>
+<path fill="none" stroke="#4EC2F0" stroke-width="10" stroke-linejoin="bevel" stroke-miterlimit="10" d="M1205.207,32.76"/>
+<path fill="none" stroke="#4EC2F0" stroke-width="3.3703" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M59.3,10.211"/>
+<circle fill="#205469" cx="84.462" cy="10.953" r="9.104"/>
+<path fill="none" stroke="#205469" stroke-width="1.4979" stroke-linecap="round" stroke-miterlimit="10" d="M73.324,11.827
+	c-0.773,3.918,2.028,7.767,6.265,8.603"/>
+<path fill="none" stroke="#205469" stroke-width="1.1234" stroke-linecap="round" stroke-miterlimit="10" d="M70.613,14.531
+	c-0.169,4.366,2.141,6.701,6.317,7.563"/>
+<path fill="none" stroke="#205469" stroke-width="0.749" stroke-linecap="round" stroke-miterlimit="10" d="M68.466,16.503
+	c0.12,1.942,0.244,3.489,1.707,4.874c0.954,0.905,2.23,1.633,3.718,2.04"/>
+<path fill="none" stroke="#205469" stroke-width="0.3745" stroke-linecap="round" stroke-miterlimit="10" d="M66.798,18.704
+	c0.196,2.724,1.508,4.295,4.68,5.71"/>
+<radialGradient id="SVGID_1_" cx="24.5889" cy="94.7803" r="18.5191" gradientTransform="matrix(1.2172 0 0 0.2434 8.305 71.7064)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#215469"/>
+	<stop  offset="0.1485" style="stop-color:#4E6E82;stop-opacity:0.8515"/>
+	<stop  offset="0.374" style="stop-color:#8B9AA9;stop-opacity:0.626"/>
+	<stop  offset="0.5801" style="stop-color:#BCC2CC;stop-opacity:0.4199"/>
+	<stop  offset="0.7596" style="stop-color:#E0E2E8;stop-opacity:0.2404"/>
+	<stop  offset="0.9057" style="stop-color:#F7F8F9;stop-opacity:0.0943"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</radialGradient>
+<path fill="url(#SVGID_1_)" d="M69.478,94.78c0,2.884-20.44,5.22-31.239,5.22C20.986,100,7,97.664,7,94.78
+	c0-2.881,13.986-5.22,31.239-5.22C55.492,89.561,69.478,91.899,69.478,94.78z"/>
+<polyline fill="none" stroke="#4EC2F0" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	49.037,85.432 26.667,85.722 48.127,79.4 25.898,76.884 47.981,73.302 26.242,68.02 48.6,67.233 27.694,59.268 49.975,61.29 
+	30.232,50.768 52.083,55.566 33.815,42.651 54.893,50.151 38.387,35.05 58.358,45.132 43.876,28.08 62.426,40.586 50.195,21.854 
+	67.031,36.586 57.244,16.468 72.102,33.194 "/>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<path fill="#225469" d="M46.919,61.823c-0.852,1.474-3.019,1.819-4.839,0.768l0,0c-1.821-1.051-2.605-3.098-1.753-4.574L73.052,3.87
+	c0.854-1.475,2.178-2.898,3.999-1.847l0,0c1.819,1.05,0.832,3.263-0.02,4.739L46.919,61.823z"/>
+<ellipse transform="matrix(0.8661 0.5 -0.5 0.8661 37.7918 -11.7922)" fill="#225469" cx="40.903" cy="64.632" rx="5.286" ry="3.7"/>
+<path fill="#FFFFFF" stroke="#3CB9E9" stroke-width="6" stroke-miterlimit="10" d="M39.503,77.219
+	c-0.421,0.422-1.488,1.438-1.95,1.761c-1.226,0.856-2.765,2.08-4.23,2.619c-1.472,0.541-3.195,0.062-4.585-0.552
+	c-0.69-0.306-2.617-1.565-2.801-2.248c-0.234-0.858,5.319-0.938,5.209-1.968c-0.174-1.621-0.696-0.914-1.129-3.547
+	c-0.145-0.884,0.572-2.695,1.077-3.201c2.614-2.614,6.48-2.983,8.638-0.828C41.888,71.414,42.118,74.605,39.503,77.219z"/>
+<path fill="#225469" d="M66.507,62.185c0.919,1.591-0.217,3.963-2.532,5.301l0,0c-2.316,1.338-4.938,1.132-5.854-0.461L25.434,7.186
+	c-0.918-1.589-1.459-3.635,0.857-4.973l0,0c2.315-1.336,3.891,0.753,4.808,2.343L66.507,62.185z"/>
+<polygon fill="#FFFFFF" stroke="#3CB9E9" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	74.169,81.444 72.001,81.722 70.761,83.412 67.333,81.604 63.612,81.154 62.627,76.637 60.242,71.195 68.766,66.276 72.298,71.27 
+	75.752,74.253 74.187,77.538 "/>
+<circle fill="#225469" cx="67.691" cy="74.843" r="1.71"/>
+<radialGradient id="SVGID_1_" cx="34.3379" cy="92.4629" r="28.0367" gradientTransform="matrix(1.2172 0 0 0.2434 8.2041 69.9532)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#215469"/>
+	<stop  offset="0.1485" style="stop-color:#4E6E82;stop-opacity:0.8515"/>
+	<stop  offset="0.374" style="stop-color:#8B9AA9;stop-opacity:0.626"/>
+	<stop  offset="0.5801" style="stop-color:#BCC2CC;stop-opacity:0.4199"/>
+	<stop  offset="0.7596" style="stop-color:#E0E2E8;stop-opacity:0.2404"/>
+	<stop  offset="0.9057" style="stop-color:#F7F8F9;stop-opacity:0.0943"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</radialGradient>
+<path fill="url(#SVGID_1_)" d="M97.294,92.463c0,4.364-30.948,7.902-47.294,7.902c-26.119,0-47.294-3.538-47.294-7.902
+	S23.881,84.562,50,84.562S97.294,88.099,97.294,92.463z"/>
+</svg>

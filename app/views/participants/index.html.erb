@@ -1,0 +1,22 @@
+<% provide(:title, 'All participants') %>
+<div class="opendoors">	
+	<h2>All participants</h2>
+
+
+	<%= will_paginate %>
+	<div class="round">
+	<table class="participants">
+		<tr>
+			<th>Name</th>
+			<th>E-Mail</th>
+		</tr>
+
+	    <%= render @participants %>
+
+	</table>
+	</div>
+
+	<%= will_paginate %>
+
+	<%= link_to "Gewinner anzeigen", winner_path, class: "back" %>
+</div>

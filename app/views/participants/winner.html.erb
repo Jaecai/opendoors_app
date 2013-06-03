@@ -1,0 +1,20 @@
+<% provide(:title, 'Winner') %>
+<div class="opendoors">	
+	<h2>And the winner is...</h2>
+
+
+	
+	<div class="round">
+	<table class="participants">
+		<tr>
+			<th>Name</th>
+			<th>E-Mail</th>
+		</tr>
+
+	    <%= render @participant %>
+
+	</table>
+	</div>
+
+	<%= link_to "Teilnehmer anzeigen", participants_path, class: "back" %>
+</div>

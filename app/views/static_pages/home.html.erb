@@ -1,0 +1,107 @@
+
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <title>lengoo &middot; Presse</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="lengoo erscheint gerne und oft in der Presse. Hier sind unsere letzten News.">
+    <meta name="keywords" content="Übersetzung, Übersetzungen, Translation, technische Übersetzung, Website Übersetzung, Webseite Übersetzung, Übersetzungsbüro, Übersetzung Deutsch Englisch">
+    <meta name="language" content="de">
+    <meta name="author" content="">
+
+  </head>
+
+  <body>
+
+
+    <!-- Part 1: Wrap all page content here -->
+    <div id="wrap">
+
+      <!-- Fixed navbar -->
+      <div class="navbar navbar-fixed-top">
+        <ul class="login">          
+          <li>&nbsp&nbsp+49 (0)721 7880 8533&nbsp&nbsp | <a href="mailto:info@lengoo.de">info@lengoo.de</a></li>
+        </ul>
+        <div class="navbar-inner">
+          <div class="row-fluid">
+            <div class="span8 offset2">
+              <%= link_to image_tag("logo2.png", class: "logo"), root_path%>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+
+      <!-- Begin page content -->
+
+      <!-- Headline -->
+      <div class="container">
+        <div class="headlineod">
+          <div class="row-fluid">
+            <div class="span8 offset2">
+              <h1>Tag der offenen Tür</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Main Content -->
+      <div class="opendoors">
+        <div class="row-fluid">
+          <div class="span8 offset2">
+            <h2>Nehmen Sie am lengoo Gewinnspiel teil</h2>
+            <p class="tagline">Gratis-Übersetzung (1000 Worte) gewinnen!</p>
+          </div>
+        </div>
+        <div class="row-fluid">
+          <section class="span8 offset2">
+            <%= form_for(@participant) do |f| %>
+              <%= render 'shared/error_messages', object: f.object %>
+              <%= f.label :name %>
+              <%= f.text_field :name %>
+
+              <%= f.label :email %>
+              <%= f.text_field :email %>
+
+              <%= f.submit "Teilnehmen", class: "attentionbutton" %>
+            <% end %>
+        <div class="row-fluid">
+          
+          <section class="span8 offset2">
+                <hr>
+                <iframe src="https://docs.google.com/forms/d/1s2XrTCk_aeIyGtpjJXa9r311yLR94qGS3JSD0EvnPT4/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+                <hr>
+          </section>
+        </div>
+        <div class="row-fluid moveup">
+          <section class="span8 offset2">
+            <h2>Sie erhalten bald eine E-Mail von uns</h2>
+            <p class="tagline">...mit der Gewinnmeldung und einigen kurzen Infos zu unserem Service.</p>
+          </section>  
+        </div>
+      </div>
+  </div>
+ 
+    
+
+
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/bootstrap-transition.js"></script>
+    <script src="assets/js/bootstrap-alert.js"></script>
+    <script src="assets/js/bootstrap-modal.js"></script>
+    <script src="assets/js/bootstrap-dropdown.js"></script>
+    <script src="assets/js/bootstrap-scrollspy.js"></script>
+    <script src="assets/js/bootstrap-tab.js"></script>
+    <script src="assets/js/bootstrap-tooltip.js"></script>
+    <script src="assets/js/bootstrap-popover.js"></script>
+    <script src="assets/js/bootstrap-button.js"></script>
+    <script src="assets/js/bootstrap-collapse.js"></script>
+    <script src="assets/js/bootstrap-carousel.js"></script>
+    <script src="assets/js/bootstrap-typeahead.js"></script>
+
+  </body>
+</html>
